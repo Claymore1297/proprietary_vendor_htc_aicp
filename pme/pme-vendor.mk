@@ -16,6 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/htc/pme/proprietary/bin/fingerprintd:system/bin/fingerprintd \
+    vendor/htc/pme/proprietary/bin/htcdcpd:system/bin/htcdcpd \
     vendor/htc/pme/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/htc/pme/proprietary/etc/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb \
     vendor/htc/pme/proprietary/etc/camera/camera_config.xml:system/etc/camera/camera_config.xml \
