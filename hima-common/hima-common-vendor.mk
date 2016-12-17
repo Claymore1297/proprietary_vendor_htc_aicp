@@ -40,7 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
     vendor/htc/hima-common/proprietary/etc/calibration:system/etc/calibration \
     vendor/htc/hima-common/proprietary/etc/cir.img:system/etc/cir.img \
-    vendor/htc/hima-common/proprietary/etc/firmware/BCM4354A2_001.003.015.0064.0175.hcd:system/etc/firmware/BCM4354A2_001.003.015.0064.0175.hcd \
+    vendor/htc/hima-common/proprietary/etc/firmware/BCM4356A2_001.003.015.0100.0102.hcd:system/etc/firmware/BCM4354A2_001.003.015.0100.0102.hcd \
     vendor/htc/hima-common/proprietary/etc/firmware/ILP0100_IPM_Code_out.bin:system/etc/firmware/ILP0100_IPM_Code_out.bin \
     vendor/htc/hima-common/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
     vendor/htc/hima-common/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
@@ -176,6 +176,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/lib/libscaler.so:system/lib/libscaler.so \
     vendor/htc/hima-common/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/htc/hima-common/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
+    vendor/htc/hima-common/proprietary/lib64/hw/nfc_nci_pn547.default.so:system/lib64/hw/nfc_nci_pn547.default.so \
     vendor/htc/hima-common/proprietary/lib64/hw/sensors.msm8994.so:system/lib64/hw/sensors.msm8994.so \
     vendor/htc/hima-common/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/htc/hima-common/proprietary/lib64/libhtc_rilhook.so:system/lib64/libhtc_rilhook.so \
