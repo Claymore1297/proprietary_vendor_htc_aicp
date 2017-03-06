@@ -210,4 +210,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m7-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/htc/m7-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
 
-$(call inherit-product, vendor/qcom/binaries/msm8960/graphics/graphics-vendor.mk)
+#$(call inherit-product, vendor/qcom/binaries/msm8960/graphics/graphics-vendor.mk)
